@@ -1,6 +1,6 @@
 # Offline-Model-Inference
 
-# stable_lm_1_6b.py - Enhanced Conversational AI Model
+# stable_lm_1_6b_loop.py - Enhanced Conversational AI Model
 
 This repository provides a simple Python script for interacting with the `stabilityai/stablelm-2-zephyr-1_6b` language model from Hugging Face. It has been enhanced with additional features by Gemini Advanced for a more engaging and user-friendly experience.
 
