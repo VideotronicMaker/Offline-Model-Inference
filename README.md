@@ -3,6 +3,20 @@
 # stable_lm_1_6b_loop.py - Enhanced Conversational AI Model
 
 This repository provides a simple Python script for interacting with the `stabilityai/stablelm-2-zephyr-1_6b` language model from Hugging Face. It has been enhanced with additional features by Gemini Advanced for a more engaging and user-friendly experience.
+This code is a starting point and encourages users to utilize GPT or Gemini for assistance with adding additional features and troubleshooting.  There are 2 initial issues but they are left to prompt the user to troubleshoot with an online AI assistant.
+
+1. **First message in terminal may be:**
+   ```bash
+   The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to            obtain reliable results. Setting `pad_token_id` to `eos_token_id`:100257 for open-end generation.
+   The attention mask is not set and cannot be inferred from input because pad token is same as eos token.As a consequence, you may observe unexpected behavior.        Please pass your input's `attention_mask` to obtain reliable results.
+2. **Error may be:**
+   ```bash
+   Cannot access attribute "to" for class "str"
+   Attribute "to" is unknown
+
+   These should not prevent inferencing.  
+    
+      
 
 ## Features
 
