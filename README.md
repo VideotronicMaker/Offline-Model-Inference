@@ -1,4 +1,4 @@
-# Offline-Model-Inference-CPU
+I# Offline-Model-Inference-CPU
 
 # stable_lm_1_6b_loop.py - Enhanced Conversational AI Model
 
@@ -59,21 +59,6 @@ Acknowledgements
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-**Key Improvements:**
-
-* **Clear Structure:** The README is organized into sections (Features, Installation, Usage, etc.) for easy navigation.
-* **Concise Description:** The introduction explains the purpose and enhancements of the script.
-* **Installation Instructions:** Detailed steps are provided for cloning the repository and installing dependencies.
-* **Usage Guide:** Explains how to run the script and interact with the model.
-* **Additional Notes:** Provides tips on resource requirements and adjusting the `temperature` parameter.
-* **Acknowledgements:** Credits the original model and the developer who made the enhancements.
-* **License:** Includes a standard MIT license to clarify usage permissions.
-
-**Important:**
-
-* Make sure to replace `yourusername` and `your-repo-name` with your actual GitHub information in the README.md file.
    
 
 
