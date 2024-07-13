@@ -15,7 +15,7 @@ This repository provides a simple Python script for interacting with the `stabil
 
 1. **Clone the repository:**
    ```bash
-   git clone [invalid URL removed]
+   git clone https://github.com/VideotronicMaker/Offline-Model-Inference
 
 2. Install dependencies:
    ```bash
