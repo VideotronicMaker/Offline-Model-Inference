@@ -27,7 +27,7 @@ This repository provides a simple Python script for interacting with the `stabil
 
 1. Run the script from your terminal:
    ```bash
-   python stable_lm_1_6b.py
+   python stable_lm_1_6b_loop.py
 
 Start chatting with the model. Type "exit" to quit.
 
@@ -39,7 +39,7 @@ Additional Notes
 
 Acknowledgements
 
-    Original Model: stabilityai/stablelm-2-zephyr-1_6b from Hugging Face
+    Original Model Code (CPU): stabilityai/stablelm-2-zephyr-1_6b from Hugging Face
     Enhancements: Gemini Advanced
 
 License
