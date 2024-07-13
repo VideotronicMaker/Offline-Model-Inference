@@ -1,4 +1,4 @@
-# Offline-Model-Inference
+# Offline-Model-Inference-CPU
 
 # stable_lm_1_6b_loop.py - Enhanced Conversational AI Model
 
